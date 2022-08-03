@@ -1,5 +1,1 @@
-squidward
-is
-cool
-..BULLET
-why though?
+Fixed a major bug where running the built file would crash.
