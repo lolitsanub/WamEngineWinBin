@@ -1,1 +1,0 @@
-Fixed a major bug where running the built file would crash.
